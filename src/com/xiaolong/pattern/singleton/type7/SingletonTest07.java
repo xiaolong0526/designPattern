@@ -1,4 +1,4 @@
-package com.xiaolong.pattern.singleton.type07;
+package com.xiaolong.pattern.singleton.type7;
 
 /**
  * @Author: xiaolong
